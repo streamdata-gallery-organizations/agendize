@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/322-agendi
 x-kinRank: "8"
 x-alexaRank: "283560"
 tags: agendize
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/agendize/master/_listings/agendize/apis.md
 specificationVersion: "0.14"
 apis: []
